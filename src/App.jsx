@@ -17,11 +17,7 @@ function App() {
   };
   return (
     <div>
-      <Banner
-      // filterByType={filterByType}
-      // setSat={setSat}
-      // displaySats={displaySats}
-      />
+      <Banner />
       <Buttons
         filterByType={filterByType}
         setSat={setSat}
